@@ -12,7 +12,6 @@ Watch the video [here](https://youtu.be/oKHrh_PMHns).
 
 Your own instance of the application is automatically deployed.
 
-Changes to this file are here.
 ### Deploying and Running Locally
 
 1. Install the the latest beta version of the Ionic CLI:
